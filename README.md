@@ -51,5 +51,5 @@ Create the following component
 ####  Documentation  
 Write a description of the project in your README.md
 
-#### Bonus 1pt 
+#### Stretch Goal
 * add a select menu that enables you to change the type of cowfile currently being used
